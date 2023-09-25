@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="clsArchivoAlumnos.h" />
+		<Unit filename="clsFecha.h" />
+		<Unit filename="fGlobales.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="personaAlumno.h" />
+		<Unit filename="prototipos.h" />
+		<Unit filename="reportes.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

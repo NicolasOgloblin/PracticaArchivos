@@ -32,12 +32,13 @@ registros que se quieren borrar
   */
 
 int main(){
+    /*
     punto1();
     system("pause");
     system("cls");
     punto3();
     system("pause");
-    system("cls");
+    system("cls");*/
     int opc;
     while(true){
         system("cls");
